@@ -12,6 +12,7 @@
 * 🐱‍💻 CEH - 70% Knowledge (still learning)
 * 🖌️ FIGMA - 70% Knowledge
 * 🖼️ CAMTASIA - 90% Knowledge
+
 **🤔 “Phishing is a major problem, because there really is no patch for human stupidity”**
 **-Mike Danseglio**
 
