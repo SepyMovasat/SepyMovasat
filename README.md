@@ -7,7 +7,8 @@
 ### What do I know?
 * 🐍 PYTHON - 90% Knowledge
 * 👾 HTML, CSS - 40% Knowledge
-* 🤖 COMMAND LINE - 60% Knowledge
+* 👨🏼‍💻 WORDPRESS - 50% Knowledge
+* 🤖 COMMAND LINE - 70% Knowledge
 * 💻 LINUX - 70% Knowledge
 * 🐱‍💻 CEH - 70% Knowledge (still learning)
 * 🖌️ FIGMA - 70% Knowledge
