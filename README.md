@@ -10,7 +10,7 @@
 * 👨🏼‍💻 WORDPRESS - 50% Knowledge
 * 🤖 COMMAND LINE - 70% Knowledge
 * 🐧 LINUX - 50% Knowledge
-* 🐱‍💻 CEH - 70% Knowledge (still learning)
+* 🐱‍💻 CEH - 80% Knowledge (still learning)
 * 🖌️ FIGMA - 70% Knowledge
 * 🖼️ CAMTASIA - 90% Knowledge
 
