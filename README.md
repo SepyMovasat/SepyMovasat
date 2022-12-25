@@ -10,9 +10,13 @@
 * 👨🏼‍💻 WORDPRESS - 50% Knowledge
 * 🤖 COMMAND LINE - 70% Knowledge
 * 🐧 LINUX - 50% Knowledge
-* 🐱‍💻 CEH - 80% Knowledge (still learning)
+* 🐱‍💻 CEH - 90% Knowledge
 * 🖌️ FIGMA - 70% Knowledge
 * 🖼️ CAMTASIA - 90% Knowledge
+
+### My CEH Certificate:
+![image](https://user-images.githubusercontent.com/81220038/209466739-233bb3d2-5059-41bc-aac9-88e6a1bbcb1e.png)
+**You can verify it with this link: https://maktabkhooneh.org/certificates/MK-D2AZ2B/** 
 
 **🤔 “Phishing is a major problem, because there really is no patch for human stupidity”**
 **-Mike Danseglio**
