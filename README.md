@@ -23,7 +23,6 @@
 **-Mike Danseglio**
 
 ### Me in GitHub:
-![](https://github-readme-stats.vercel.app/api?username=SepyMovasat&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SepyMovasat&theme=dracula&hide_border=false)<br/>
 ![Sepy_Movasat's commits gif](https://user-images.githubusercontent.com/81220038/201395310-cb0ff6c2-cc3a-468e-8c4d-0df53d336692.svg)
 ## Have a nice time!
