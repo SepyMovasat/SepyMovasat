@@ -5,7 +5,7 @@
 * I am a python programmer, a linux lover and a CEH.
 
 ### What do I know?
-* 🐍 PYTHON - 80% Knowledge **(Without lots of libraries!)**
+* 🐍 PYTHON - 80% Knowledge **(Without some of the libraries!)**
 * 👾 HTML, CSS - 40% Knowledge
 * 👨🏼‍💻 WORDPRESS - 50% Knowledge
 * 🤖 COMMAND LINE - 70% Knowledge
