@@ -21,6 +21,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SepyMovasat&theme=dracula&hide_border=false)<br/>
 ![Sepy_Movasat's commits gif](https://user-images.githubusercontent.com/81220038/201395310-cb0ff6c2-cc3a-468e-8c4d-0df53d336692.svg)
 
-## if Summer:
-##  NewProject()
+**if Summer:
+  NewProject()**
 ## Have a nice time!
